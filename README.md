@@ -59,7 +59,33 @@ screenshots/
 ```
 
 ## Screenshots
-Project screenshots are available inside the **screenshots/** folder.
+
+### IAM Dashboard
+![IAM Dashboard](iam-dashboard.png)
+
+### IAM Users
+![IAM Users](iam-users.png)
+
+### CloudAdmin Permissions
+![CloudAdmin Permissions](cloudadmin-permissions.png)
+
+### CloudEngineer User Details
+![CloudEngineer User Details](cloudengineer-user-details.png)
+
+### IAM Roles
+![IAM Roles](iam-roles.png)
+
+### IAM User Groups
+![IAM User Groups](iam-user-groups.png)
+
+### Group Users
+![Group Users](group-users.png)
+
+### Group Permissions
+![Group Permissions](group-permissions.png)
+
+### AWS Console Home (IAM Login)
+![AWS Console Home](aws-console-home-after-iam-login.png)
 
 ## Author
 
